@@ -358,8 +358,6 @@ subprocess.run("mkdir tmp\\" + fold, shell=True)
 print("\n\n**************************** ", video_file, " **********************\n\n")
 print("------------------ start Time: ", startTime, "-------------------------\n")
 
-#chunks = [(" tmp\\0-299999\\vocals.mp3"),(" tmp\\300000-599999\\vocals.mp3"),(" tmp\\600000-899999\\vocals.mp3"),(" tmp\\900000-1199999\\vocals.mp3"),(" tmp\\1200000-1340905\\vocals.mp3")]
-
 vocals_file = removeMusic(video_file, fold)
 
 chunks = SplitAudio(vocals_file, fold, min_silence_length)

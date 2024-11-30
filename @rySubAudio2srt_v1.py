@@ -11,7 +11,6 @@ from pydub import AudioSegment, silence
 from datetime import datetime
 import sys
 import os
-import tls_gpu_torch
 from sklearn.cluster import AgglomerativeClustering
 from pyannote.audio import Audio
 from pyannote.core import Segment

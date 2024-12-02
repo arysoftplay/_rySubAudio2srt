@@ -16,6 +16,7 @@ Python program based on OpenAi Whisper library
        * scikit-learn (1.5.2)
        * pyannote.audio (3.3.2)
        * torch (2.5.1+cu124)
+       * DeepFilterNet  (0.5.6)
 
 <b>Whisper models: </b>
 -  multilanguage: tiny, base, small, medium, large

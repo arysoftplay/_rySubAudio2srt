@@ -47,11 +47,11 @@ def getParams():
     ap.add_argument("-in", "--input_file", help="source audio/video file")
 
     args = vars(ap.parse_args())
-    if args.get("input", None) is None:
+    if args.get("input_file", None) is None:
         print("Input file is mandatory. Use -h option for help")
         exit()
     else:
-        video_file=args["input"]
+        video_file=args["input_file"]
         
     language = args.get("language", None).lower()
 

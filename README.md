@@ -36,4 +36,4 @@ Afrikaans, Arabic, Armenian, Azerbaijani, Belarusian, Bosnian, Bulgarian, Catala
 
 For more information on whisper visit https://platform.openai.com/docs/guides/speech-to-text
 
-Keywords: audio video subtitle subtitles sub subs subtitulos sous-titres read convert video srt AI artificial intelligence openai chatgpt capture transcribe transcription transcript speech to text
+Keywords: audio sound video movie shows episodes subtitle subtitles sub subs subtitulos sous-titres srt .srt automatic AI artificial intelligence openai capture read convert transcribe transcriber transcriptor transcription transcript speech to text

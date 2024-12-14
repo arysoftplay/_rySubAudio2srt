@@ -35,3 +35,5 @@ Python program based on OpenAi Whisper library
 Afrikaans, Arabic, Armenian, Azerbaijani, Belarusian, Bosnian, Bulgarian, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, Galician, German, Greek, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Italian, Japanese, Kannada, Kazakh, Korean, Latvian, Lithuanian, Macedonian, Malay, Marathi, Maori, Nepali, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swahili, Swedish, Tagalog, Tamil, Thai, Turkish, Ukrainian, Urdu, Vietnamese, and Welsh.
 
 For more information on whisper visit https://platform.openai.com/docs/guides/speech-to-text
+
+Keywords: audio video subtitle subtitles sub subs subtitulos sous-titres read convert video srt AI artificial intelligence openai chatgpt capture transcribe transcription transcript speech to text
